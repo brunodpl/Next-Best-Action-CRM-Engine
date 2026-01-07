@@ -1,0 +1,22 @@
+{
+    "job_id": "d4585ec8-5230-4206-9d48-e841fae5791f",
+    "timestamp_utc": "2026-01-07T14:27:11.717989Z",
+    "process_name": "ETL_Daily_NBA_Scoring",
+    "source_system": "DuckDB_Local_Analytics",
+    "target_system": "SFMC_Data_Extension_Audience",
+    "metrics": {
+        "total_input_rows": 510,
+        "total_output_rows": 299,
+        "filtered_rows": 211,
+        "execution_status": "SUCCESS"
+    },
+    "schema_validation": {
+        "columns_checked": [
+            "SubscriberKey",
+            "EmailAddress",
+            "NBA_Code",
+            "Dynamic_Subject_Line_ID"
+        ],
+        "null_check": "PASSED"
+    }
+}
