@@ -1,4 +1,4 @@
-# Retail Pulse – NBA Engine
+# NBA Engine
 ### *Next Best Action & CRM Automation Simulator*
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
